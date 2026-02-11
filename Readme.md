@@ -457,5 +457,10 @@ Include:
 * 500 — Internal server error
 * Global error middleware
 
+<img width="1917" height="947" alt="image" src="https://github.com/user-attachments/assets/70d519eb-2964-4bfa-8ea6-f1346ef09d28" />
+<img width="1872" height="975" alt="image" src="https://github.com/user-attachments/assets/a4b7f4cd-fa2e-436d-b70d-acdbc2be98a6" />
+<img width="1917" height="978" alt="image" src="https://github.com/user-attachments/assets/88a7fcfb-0502-49df-962b-2ceefac4f7db" />
+<img width="1871" height="967" alt="image" src="https://github.com/user-attachments/assets/8ed7ba75-ab47-4e15-b70a-b7024e8678ff" />
+
 
 
